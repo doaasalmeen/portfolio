@@ -1,7 +1,15 @@
 export const Home = () => {
   return (
-    <div className="home">
-        <h1>Welcome to My Portfolio</h1>
-        </div>
+    <div className="min-h-screen container">
+        {/* Theme Togglr */}
+
+        {/* Background Effects */}
+
+        {/* Navbar */}
+
+        {/* Main Content */}
+
+        {/* Footer */}
+    </div>
   )
 }   
